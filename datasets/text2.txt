@@ -1,0 +1,2 @@
+Computer security protects systems, networks, and data from unauthorized access.
+Cryptanalysis studies methods for analyzing encrypted information.

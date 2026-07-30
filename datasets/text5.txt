@@ -1,0 +1,2 @@
+A cryptanalyst studies patterns in data and attempts to understand secure systems.
+Statistical analysis can reveal useful information about text.

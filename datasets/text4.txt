@@ -1,0 +1,2 @@
+Classical ciphers are useful for understanding the foundations of cryptography.
+Future assignments will explore different cryptographic techniques.

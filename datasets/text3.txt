@@ -1,0 +1,2 @@
+Information security is important in modern computer systems.
+Secure communication requires careful design and implementation.

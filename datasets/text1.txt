@@ -1,0 +1,3 @@
+Cryptography is the study of techniques used to protect information.
+Classical cryptography includes historical methods of encryption.
+Security depends on confidentiality, integrity, and authentication.
