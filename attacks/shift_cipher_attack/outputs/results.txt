@@ -1,0 +1,41 @@
+SHIFT CIPHER CRYPTANALYSIS RESULTS
+
+Test Case 1
+Plaintext: HELLO WORLD
+Actual Key: 3
+Dictionary Key:3
+Chi-Square Key:6
+Dictionary Correct: YES
+Chi-Square Correct:NO
+
+Test Case 2
+Plaintext: THIS IS CRYPTOGRAPHY LAB
+Actual Key: 5
+Dictionary Key:5
+Chi-Square Key:5
+Dictionary Correct: YES
+Chi-Square Correct:YES
+
+Test Case 3
+Plaintext: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+Actual Key: 7
+Dictionary Key:7
+Chi-Square Key:7
+Dictionary Correct:YES
+Chi-Square Correct:YES
+
+Test Case 4
+Plaintext: COMPUTER SCIENCE IS IMPORTANT FOR SECURITY
+Actual Key: 13
+Dictionary Key:13
+Chi-Square Key:13
+Dictionary Correct:YES
+Chi-Square Correct:YES
+
+Test Case 5
+Plaintext: CRYPTOGRAPHY PROVIDES METHODS FOR SECURE COMMUNICATION
+Actual Key: 19
+Dictionary Key:19
+Chi-Square Key:19
+Dictionary Correct:YES
+Chi-Square Correct:YES
