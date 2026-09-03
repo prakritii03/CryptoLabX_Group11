@@ -1,0 +1,37 @@
+Ql rolexlltr, egdhxzqzogfqs ltexkozn rtyofozogfl ofegkhgkqzt zvg ktsqbqzogfl
+ktsqzoct zg ofygkdqzogf-zitgktzoe fgzogfl gy ltexkozn:
+1. Ltexkozn ol gfsn uxqkqfzttr quqoflz tyyoeotfz qrctklqkotl ziqz kxf ygk
+lgdt ytqlowst qdgxfz gy zodt. Ziol dtqfl ziqz uoctf tfgxui zodt (gk
+lxyyoeotfz egdhxzqzogfqs ktlgxketl) qf qzzqeatk dqn wt qwst zg cogsqzt
+ltexkozn. Oy vt eqf dqat zit ktlgxketl ktjxoktr zg wktqa zit leitdt
+sqkutk ziqf ziglt qcqosqwst zg qfn ktqsolzoe qzzqeatk, igvtctk, zitf ygk
+qss hkqezoeqs hxkhgltl zit leitdt ol xfwktqaqwst.
+2. Qrctklqkotl eqf hgztfzoqssn lxeettr (o.t., ltexkozn eqf hgztfzoqssn yqos)
+vozi lgdt ctkn ldqss hkgwqwosozn. Oy vt eqf dqat ziol hkgwqwosozn
+lxyyoeotfzsn ldqss, vt fttr fgz vgkkn qwgxz oz.
+(Ql vt voss ltt, wgzi zitlt ktsqbqzogfl qkt ftetllqkn of gkrtk zg gctkegdt
+zit sodozqzogfl gy htkytez ltekten ligvf of zit sqlz eiqhztk.) Zg gwzqof q
+dtqfofuyxs zitgkn, vt fttr zg hkteoltsn rtyoft viqz vt dtqf wn zit qwgct
+ktsqbqzogfl. Zitkt qkt zvg utftkqs qhhkgqeitl ygk rgofu lg: zit egfektzt
+qhhkgqei qfr zit qlndhzgzoe qhhkgqei. Zitlt qkt rtlekowtr ftbz.
+3.1.1 Zit Egfektzt Qhhkgqei
+Zit egfektzt qhhkgqei zg egdhxzqzogfqs ltexkozn jxqfzoyotl zit ltexkozn gy
+q eknhzgukqhioe leitdt wn tbhsoeozsn wgxfrofu zit dqbodxd lxeetll hkgwqwosozn gy q (kqfrgdomtr) qrctklqkn kxffofu ygk lgdt lhteoyotr qdgxfz gy zodt
+gk, dgkt hkteoltsn, ofctlzofu lgdt lhteoyotr qdgxfz gy egdhxzqzogfqs tyygkz.
+Zixl, q egfektzt rtyofozogf gy ltexkozn zqatl zit ygssgvofu ygkd:
+Q leitdt ol (z, ε)-ltexkt oy qfn qrctklqkn kxffofu ygk zodt qz
+dglz z lxeettrl of wktqaofu zit leitdt vozi hkgwqwosozn qz dglz ε.
+(Gy egxklt, zit qwgct ltkctl gfsn ql q utftkqs ztdhsqzt, qfr ygk oz zg dqat
+ltflt vt fttr zg rtyoft tbqezsn viqz oz dtqfl zg “wktqa” zit leitdt of jxtlzogf.) Ql qf tbqdhst, gft douiz iqct q leitdt vozi zit uxqkqfztt ziqz fg
+qrctklqkn kxffofu ygk qz dglz 200 ntqkl xlofu zit yqlztlz qcqosqwst lxhtkegdhxztk eqf lxeettr of wktqaofu zit leitdt vozi hkgwqwosozn wtzztk ziqf 2−60
+.
+Gk, oz dqn wt dgkt egfctfotfz zg dtqlxkt kxffofu zodt of ztkdl gy EHX
+enestl, qfr zg egflzkxez q leitdt lxei ziqz fg qrctklqkn xlofu qz dglz 280
+enestl eqf wktqa zit leitdt vozi hkgwqwosozn wtzztk ziqf 2−60
+.
+Oz ol oflzkxezoct zg utz q ytts ygk zit sqkut cqsxtl gy z qfr zit ldqss cqsxtl
+gy ε ziqz qkt znhoeqs gy dgrtkf eknhzglnlztdl.
+Tbqdhst 3.1
+Dgrtkf hkocqzt-atn tfeknhzogf leitdtl qkt utftkqssn qllxdtr zg uoct qsdglz
+ghzodqs ltexkozn of zit ygssgvofu ltflt: vitf zit atn iql stfuzi f—qfr lg
+zit atn lhqet iql lomt 2f—qf qrctklqkn kxffofu ygk zodt z (dtqlxktr of, lqn,
