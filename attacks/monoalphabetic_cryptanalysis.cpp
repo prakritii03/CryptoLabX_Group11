@@ -2,6 +2,9 @@
 #include <fstream>
 #include <string>
 
+#include "cryptanalysis.h"
+#include "substitution.h"
+#include "verification.h"
 using namespace std;
 
 bool isLetter(char c)
@@ -193,7 +196,49 @@ int main(int argc, char* argv[])
         return 1;
     }
 
+    cout << "\n========================================\n";
+    cout << "MONOALPHABETIC CIPHER CRYPTANALYSIS\n";
+    cout << "========================================\n";
+
+    cout << "\nCiphertext:\n";
+    cout << ciphertext << '\n';
+
     pattern_analysis(ciphertext);
+
+    char cipherToPlain[26];
+
+    for (int i = 0; i < 26; i++)
+    {
+        cipherToPlain[i] = '?';
+    }
+
+    iterative_cryptanalysis(
+        ciphertext,
+        cipherToPlain
+    );
+
+    string plaintext =
+        apply_substitution(
+            ciphertext,
+            cipherToPlain
+        );
+
+    cout << "\n========================================\n";
+    cout << "FINAL RESULTS\n";
+    cout << "========================================\n";
+
+    cout << "\nRecovered Plaintext:\n";
+    cout << plaintext << '\n';
+
+    recover_substitution_key(
+        cipherToPlain
+    );
+
+    verify_solution(
+        ciphertext,
+        plaintext,
+        cipherToPlain
+    );
 
     return 0;
 }
