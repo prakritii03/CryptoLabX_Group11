@@ -71,18 +71,31 @@ def recover_block(previous_block, target_block, oracle):
 
             modified_block[position] = guess
 
-            if oracle(bytes(modified_block), target_block):
+            if not oracle(bytes(modified_block), target_block):
+                continue
 
-                intermediate[position] = (
-                    guess ^ padding_value
-                )
+            if padding_value == 1 and position > 0:
 
-                recovered_plaintext[position] = (
-                    intermediate[position] ^ previous_block[position]
-                )
+                test_block = bytearray(modified_block)
+                test_block[position - 1] ^= 1
 
-                found = True
-                break
+                if not oracle(
+                    bytes(test_block),
+                    target_block
+                ):
+                    continue
+
+            intermediate[position] = (
+                guess ^ padding_value
+            )
+
+            recovered_plaintext[position] = (
+                intermediate[position]
+                ^ previous_block[position]
+            )
+
+            found = True
+            break
 
         if not found:
             raise RuntimeError(
