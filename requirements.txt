@@ -1,2 +1,3 @@
 # CryptoLabX Assignment 1
-# No external dependencies required.
+# Required by AES-CBC Padding Oracle Attack
+pycryptodome
