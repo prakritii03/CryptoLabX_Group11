@@ -1,0 +1,9 @@
+Cryptographic Prime Generation using Miller-Rabin
+Assigned bit length: 512
+Generated prime candidate: 9624465095673146311496072819419115399239206413666909791308312723124382466865598901020620054839335651373020298733505640072994860365831206135862043971332049
+Actual bit length: 512
+Number of candidates tested: 201
+Miller-Rabin rounds per candidate: 20
+Bases used: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71
+Total execution time (milliseconds): 163.045
+Miller-Rabin result: PASS
